@@ -9,4 +9,8 @@ Este repositorio, esta dedicado al proyecto de Programacion de plataformas abier
 Este proyecto es un sistema de facturacion el cual trabaja con una base de minisql. 
 Para correr el archivo se debe correr el archivo llamado "menu.py"
 
+```bash
+python3 menu.py
+```
+
 Este archivo despliega la ventana principal de la interfaz grafica que hace el llamado de las demas
